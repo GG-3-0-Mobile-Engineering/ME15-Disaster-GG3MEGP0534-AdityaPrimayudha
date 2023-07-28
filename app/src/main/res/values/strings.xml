@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">finalproject</string>
+    <string name="MAPS_API_KEY">AIzaSyBiL0RVcAX7VO0Ca-93qeydGmW1bDMROfk</string>
+    <string name="boldItalicInformasi"><b><u>Informasi Bencana Terkini</u></b></string>
+    <string name="search">Search...</string>
+    <string name="banjir">Banjir</string>
+    <string name="choose_theme">Choose theme</string>
+    <string name="light">Light Mode</string>
+</resources>
